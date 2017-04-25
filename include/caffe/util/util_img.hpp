@@ -21,7 +21,7 @@ using namespace cv;
 using cv::Point_;
 using cv::Mat_;
 using cv::Mat;
-using cv::vector;
+using std::vector;
 
 #define PI 3.14159265
 
